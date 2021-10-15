@@ -20,3 +20,6 @@ create account <br>
 get your api key <br>
 add key value to your base api <br>
 http://api.weatherstack.com/current?access_key="key value"?query=Mumbai
+
+<br>
+Always use JSON parsed data to know about various data of that place
